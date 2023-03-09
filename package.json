@@ -1,7 +1,11 @@
 {
   "name": "user-credential",
   "version": "0.1.0",
-  "private": true,
+  "private": true,  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ypnoz1/user-credential.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
